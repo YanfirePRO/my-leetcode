@@ -79,7 +79,7 @@ medium([3],[-2, -1])
 
 // 要确保这两个条件，我们只需要保证：
 
-// i + j = m - i + n - ji+j=m−i+n−j（或：m - i + n - j + 1m−i+n−j+1）
+// i + j = m - i + n - j   i+j=m−i+n−j（或：m - i + n - j + 1m−i+n−j+1）
 // 如果 n \geq mn≥m，只需要使 \ i = 0 \sim m,\ j = \frac{m + n + 1}{2} - i \\ i=0∼m, j= 
 // 2
 // m+n+1
