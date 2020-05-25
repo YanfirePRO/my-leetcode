@@ -50,11 +50,11 @@ var minWindow = function(s, t) {
     let right = 0;
     let len = s.length;
 
-    while(right < len){
-        if(hashmap.has(s[right])){
-            hashmap.set(s[right],  hashmap.get(s[right]) + 1);
-        }
-    }
+    // while(right < len){
+    //     if(hashmap.has(s[right])){
+    //         hashmap.set(s[right],  hashmap.get(s[right]) + 1);
+    //     }
+    // }
 };
 
 var check = function(hashmap){
